@@ -6,7 +6,6 @@
 ! License: https://github.com/givps/openclash/blob/main/LICENSE
 ! Last modified: 13-05-2024
 ! Source: https://github.com/alexsannikov/adguardhome-filters
-
 ||0006666.net^
 ||007angels.com^
 ||007milf.com^
