@@ -1,9 +1,9 @@
 # Usage
-- go to adguardstat<br>
-- Filters<br>
-- DNS blocklists<br>
-- ADD blocklist<br>
-- ADD a custom list<br>
+- go to adguardstat
+- Filters
+- DNS blocklists
+- ADD blocklist
+- ADD a custom list
 # pornblock
 ```
 https://github.com/givps/openclash/raw/main/adguard-home/pornblock.txt
