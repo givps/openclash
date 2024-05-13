@@ -8,3 +8,4 @@
 ```
 https://github.com/givps/openclash/raw/main/adguard-home/pornblock.txt
 ```
+- reboot openwrt to get maximum results
