@@ -4,6 +4,7 @@
 - DNS blocklists<br>
 - ADD blocklist<br>
 - ADD a custom list<br>
+# pornblock
 ```
 https://github.com/givps/openclash/raw/main/adguard-home/pornblock.txt
 ```
